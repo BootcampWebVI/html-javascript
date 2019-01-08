@@ -276,7 +276,7 @@ nav.menu-icon a{
 }
 
 #experiencia{
-    background-image: url(/images/bgg2.png); 
+    background-image: url(../images/bgg2.png); 
     background-repeat: repeat;
     background-attachment: fixed;
     padding-top: 0.5rem;
